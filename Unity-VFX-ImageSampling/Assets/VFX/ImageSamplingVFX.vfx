@@ -25,10 +25,10 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 0
+    x: -0
     y: -190
     width: 1720
-    height: 2460
+    height: 2462
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -68,7 +68,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 50000
+      m_SerializableObject: 80000
     min: -Infinity
     max: Infinity
     enumValues: []
@@ -940,7 +940,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 50000
+      m_SerializableObject: 80000
     m_Space: 2147483647
   m_Property:
     name: o
@@ -5326,7 +5326,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":0.07999999821186066,"y":0.20000000298023225,"z":0.07999999821186066}'
+      m_SerializableObject: '{"x":0.03999999910593033,"y":0.17000000178813935,"z":0.03999999910593033}'
     m_Space: 2147483647
   m_Property:
     name: Scale
